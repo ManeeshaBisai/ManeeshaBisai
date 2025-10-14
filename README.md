@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Maneesha Bisai!
 
-<!--
-**ManeeshaBisai/ManeeshaBisai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **Master of Computer Applications (MCA)** graduate and an aspiring **Software Developer**.  
+💻 Currently, I'm learning **Python** and building a strong foundation in **Data Structures and Algorithms (DSA)**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Current Focus
+- 🌱 Learning Python (using VS Code)
+- 💡 Practicing problem-solving on **LeetCode**
+- ⚙️ Exploring Git, GitHub, and version control
+- 📚 Building my portfolio step by step  
+
+---
+
+### 🛠️ Skills I'm Learning
+- **Languages:** Python  
+- **Tools:** Git, GitHub, VS Code  
+- **Core Areas:** DSA, Problem Solving  
+
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/maneesha-bisai-04a313342/)
+- 🧠 [LeetCode](https://leetcode.com/u/Maneesha_Bisai_0405/)
+- 🌐 [GitHub](https://github.com/ManeeshaBisai)  
+
+---
+
+✨ *I believe in learning, building, and growing every single day!* ✨
