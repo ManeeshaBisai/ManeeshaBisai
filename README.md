@@ -15,7 +15,7 @@
 ---
 
 ### 🛠️ Skills I'm Learning
-- **Languages:** Python , SQl  
+- **Languages:** Python , SQL 
 - **Tools:** Git, GitHub, VS Code, MySQL Workbench 
 - **Core Areas:** Programming,Database Concepts
 
