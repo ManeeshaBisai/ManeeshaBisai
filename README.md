@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Maneesha Bisai!
 
 🎓 I'm a **Master of Computer Applications (MCA)** graduate and an aspiring **Software Developer**.  
-💻 Currently, I'm learning **Python** and building a strong foundation in **Data Structures and Algorithms (DSA)**.  
+💻 Currently, I'm learning **Python & SQL** and build a strong programming and database skills.  
 
 ---
 
 ### 🚀 My Current Focus
 - 🌱 Learning Python (using VS Code)
+- 🗃️ Practicing SQL queries and database concepts
 - 💡 Practicing problem-solving on **LeetCode**
 - ⚙️ Exploring Git, GitHub, and version control
 - 📚 Building my portfolio step by step  
@@ -14,9 +15,9 @@
 ---
 
 ### 🛠️ Skills I'm Learning
-- **Languages:** Python  
-- **Tools:** Git, GitHub, VS Code  
-- **Core Areas:** DSA, Problem Solving  
+- **Languages:** Python , SQl  
+- **Tools:** Git, GitHub, VS Code, MySQL Workbench 
+- **Core Areas:** Programming,Database Concepts
 
 ---
 
